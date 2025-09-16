@@ -1,5 +1,6 @@
 # wesleyhmarshall_portfolio
 This is my first repo
-today in monday
+today is monday
+
 
 write on the new branch
